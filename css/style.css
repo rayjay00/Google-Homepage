@@ -1,0 +1,12 @@
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -92px;
+  margin-left: -136px;
+}
+
+.logo {
+  width: 272px;
+  left: 50%;
+}
